@@ -14,6 +14,7 @@ Core implementation:
 - CLI front‑end: [src/mainn.cpp](src/mainn.cpp)
 
 Demo Video : https://drive.google.com/file/d/127vFHmHc-3mgU7mIgZ0JPNqNu3fMpxpT/view?usp=sharing  
+
 ---
 
 ## Building
@@ -181,5 +182,6 @@ You will see a nested prompt `allocator>cache>` with these options (see [src/cac
 5. Inspect allocator and per‑level cache performance with `stats`.
 
 This makes the project a compact playground for experimenting with heap allocation strategies, fragmentation behaviour, and multi‑level cache design.
+
 
 
